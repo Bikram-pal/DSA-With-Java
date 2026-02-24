@@ -11,7 +11,6 @@ public class CountDigit {
             n/=10;
             count++;
         }
-
         System.out.println(count);
     }
 }
